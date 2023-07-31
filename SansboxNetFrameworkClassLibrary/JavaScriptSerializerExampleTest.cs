@@ -1,7 +1,7 @@
-﻿using System.Web.Script.Serialization;
+using System.Web.Script.Serialization;
 using Xunit;
 
-namespace SandboxNetClassLibrary.System.Web.Script.Serialization
+namespace delete
 {
     public class JavaScriptSerializerExampleTest
     {
