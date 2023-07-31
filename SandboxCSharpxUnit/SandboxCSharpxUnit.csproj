@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
-    <RootNamespace>sandbox_c_sharp_xunit</RootNamespace>
+    <RootNamespace>SandboxCSharpxUnit</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
@@ -24,7 +24,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\sandbox-c-sharp\sandbox-c-sharp.csproj" />
+    <ProjectReference Include="..\SandboxCSharp\SandboxCSharp.csproj" />
   </ItemGroup>
 
 </Project>
