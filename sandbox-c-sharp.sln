@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SandboxCSharpxUnit", "Sandb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandboxCSharp", "SandboxCSharp\SandboxCSharp.csproj", "{E73B397D-924E-4186-985E-41522AC1A9CB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SansboxNetFrameworkClassLibrary", "SansboxNetFrameworkClassLibrary\SansboxNetFrameworkClassLibrary.csproj", "{12D4B78B-2A72-42AC-BF21-32FC7CD80731}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SandboxNetFrameworkClassLibrary", "SansboxNetFrameworkClassLibrary\SandboxNetFrameworkClassLibrary.csproj", "{12D4B78B-2A72-42AC-BF21-32FC7CD80731}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
