@@ -1,9 +1,8 @@
 using sandbox_c_sharp;
-using Xunit.Sdk;
 
 namespace sandbox_c_sharp_xunit;
 
-public class UnitTest1
+public class HelloWorldTest
 {
     private readonly SomeSut sut = new SomeSut();
 
